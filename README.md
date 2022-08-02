@@ -18,7 +18,7 @@
 </div>
 
 ### :woman_technologist: About Me : 
-I am a 2nd year Information Technology Undergraduate at SLIIT, Sri Lanka.
+I am Dilshi Wanniarachchi, a 2nd year Information Technology Undergraduate at SLIIT, Sri Lanka.
 - :telescope: I am a hands-on learner, hence prefer learning new technologies through development.
 
 - :seedling: Exploring new languages and tools.
