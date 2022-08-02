@@ -25,7 +25,7 @@ I am a 2nd year undergraduate at SLIIT currently learning web development from S
 
 - :zap: In my free time, I explore new technologies, read tech blogs and solve problems on DSA.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dilshi-wanniarachchi-463664246/)).
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dilshi-wanniarachchi-463664246/))
 
 ---
 
