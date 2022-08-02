@@ -19,11 +19,11 @@
 
 ### :woman_technologist: About Me : 
 I am a 2nd year undergraduate at SLIIT currently learning web development from Sri Lanka
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am a hands-on learner, hence prefer learning new technologies through development.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring languages and tools.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I explore new technologies, read tech blogs and solve problems on DSA.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dilshi-wanniarachchi-463664246/)).
 
@@ -53,4 +53,6 @@ I am a 2nd year undergraduate at SLIIT currently learning web development from S
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DilshiWanniarachchi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshiWanniarachchi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
