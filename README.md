@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/dilshi-wanniarachchi-463664246/">
@@ -12,6 +12,8 @@
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=DilshiWanniarachchi&style=flat-square&color=blue" alt=""/>
+  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
 </div>
 
