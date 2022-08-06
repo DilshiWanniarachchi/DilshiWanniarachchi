@@ -25,7 +25,7 @@ I am Dilshi Wanniarachchi, a 2nd year Information Technology Undergraduate at SL
 
 - :zap: In my free time, I explore new technologies, read tech blogs and reflecting on my skills.
 
-- :mailbox: Reach me at : dilshimwanniarachchi@gmail.com
+- :mailbox: Reach me at dilshimwanniarachchi@gmail.com
 
 ---
 
