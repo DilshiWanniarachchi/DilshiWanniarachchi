@@ -25,7 +25,7 @@ I am Dilshi Wanniarachchi, a 2nd year Information Technology Undergraduate at SL
 
 - :zap: In my free time, I explore new technologies, read tech blogs and reflecting on my skills.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dilshi-wanniarachchi-463664246/))
+- :mailbox:How to reach me: dilshimwanniarachchi@gmail.com [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dilshi-wanniarachchi-463664246/))
 
 ---
 
