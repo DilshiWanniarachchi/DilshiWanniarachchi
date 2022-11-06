@@ -21,9 +21,7 @@
 I am Dilshi Wanniarachchi, a 2nd year Information Technology Undergraduate at SLIIT, Sri Lanka.
 - :telescope: I am a hands-on learner, hence prefer learning new technologies through development.
 
-- :seedling: Exploring new languages and tools.
-
-- :zap: In my free time, I explore new technologies, read tech blogs and reflecting on my skills.
+- :zap: In my free time, I explore new tools, read tech blogs and reflect on my skills.
 
 - :mailbox: Reach me at dilshimwanniarachchi@gmail.com
 
