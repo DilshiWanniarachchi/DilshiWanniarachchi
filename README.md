@@ -57,5 +57,5 @@ I am Dilshi Wanniarachchi, a 3rd year Information Technology Undergraduate at SL
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DilshiWanniarachchi)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshiWanniarachchi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshiWanniarachchi&layout=compact&exclude_repo=cosmetic-manufacturing-and-sales-management-system)](https://github.com/anuraghazra/github-readme-stats)
 
